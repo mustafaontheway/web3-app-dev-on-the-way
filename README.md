@@ -1,4 +1,4 @@
-* React
-* UI Design
+* Decentralized AI
+  
 * Smart Contracts
-* Web3 Apps
+
